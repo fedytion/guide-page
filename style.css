@@ -34,3 +34,34 @@
     margin-left: 230px;
     padding: 5px;
 }
+
+chapter_title {
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.chapter_content {
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+ul {
+    font-size: 19px;
+    font-style: italic;
+}
+
+.chapter {
+    padding-top: 3px;
+    margin-bottom: 60px;
+}
+
+.tip {
+    font-size: 17px;
+    font-style: italic;
+}
+
+img {
+    margin-left: 30px;
+    width: 400px;
+}
